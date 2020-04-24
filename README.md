@@ -16,3 +16,10 @@ make install
 - -C 指定单个包的大小为多少M
 - -w 指定包的存放路径
 - info.pcap 包名，必须以.pcap结尾
+## 备注
+- 也可以只下载tcpdump进行使用
+```shell
+https://github.com/lichuang69316/tcpdump/blob/master/tcpdump-4.9.3/tcpdump
+```
+![image.png](https://i.loli.net/2020/04/24/NiOe7mWlarpFUqg.png)
+
